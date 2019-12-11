@@ -1,9 +1,7 @@
 # Final Project
-## Networks Judging Other Networks
+## Network Judging Other Network's Album Art
 
 Shawheen Tosifian, stosifia@ucsd.edu
-
-(Your teammates' contact info, if appropriate)
 
 ## Abstract Proposal
 
