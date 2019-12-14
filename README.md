@@ -19,9 +19,9 @@ Upload your project report (4 pages) as a pdf with your repository, following th
 Briefly describe the files that are included with your repository:
 - abstract_64x64 : directory containing images of abstract art resized to 64x64 (with corresponding .csv containing
                    each images sentiment labels) obtained from https://www.imageemotion.org
-- abstractclass1 : checkpoints for classifier
-- dcgan_results : sample output of DCGAN over every iteration
-- GANAlbumArt : contains generated DCGAN 'album art' files
+- abstractclass1 : checkpoints for classifier (not available due to git push issue - available upon request)
+- dcgan_results : sample output of DCGAN over every iteration (not available due to git push issue - available upon request)
+- GANAlbumArt : contains generated DCGAN 'album art' files (not available due to git push issue - available upon request)
 - AbstractClassifier: .ipynb notebook for classifier
 - DCGAN_AlbumArt: .ipynb notebook for DCGAN
 - nntools.py: used by AbstractClassifier for importing classes/functions needed to run model
