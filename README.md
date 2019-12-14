@@ -12,7 +12,7 @@ FIRST STEP: Write up a description (in the form of an abstract) of what you will
 
 ## Project Report
 
-Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://drive.google.com/open?id=1mgIxwX1VseLyeM9uPSv5GJQgRWNFqtBZ0GKE9d4Qxww).
+Inside repo (ECE188_Final_Project_Report)
 
 ## Model/Data
 
